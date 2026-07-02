@@ -1,0 +1,22 @@
+# ============================================================
+#  Repo público: SOLO el sitio. Todo lo demás queda fuera.
+# ============================================================
+
+# --- Stack de IA / tooling (no es parte del sitio publicado) ---
+.claude/
+web-design-spec/
+CLAUDE.md
+content/
+
+# --- Fuentes de marca e insumos privados (no se publican) ---
+brand/
+
+# --- Artefactos de build / QA ---
+.lighthouseci/
+src-crops/
+node_modules/
+
+# --- Sistema / temporales ---
+.DS_Store
+Thumbs.db
+*.log

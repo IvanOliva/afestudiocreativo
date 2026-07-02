@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://afestudiocreativo.com.ar/sitemap.xml
